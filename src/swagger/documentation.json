@@ -1,0 +1,15 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "0.1.0",
+    "title": "REST API sfxdx_exchange",
+    "description": "Сервис работы с orders по рыночной или установленной цене"
+  },
+  "host": "127.0.0.1:8080",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "securityDefinitions": {},
+  "paths": {}
+}
